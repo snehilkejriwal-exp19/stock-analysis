@@ -1,4 +1,5 @@
 # Stock Analysis — AAPL, MSFT, TCS (2025)
+# Relative Valuation - VISA, ICICI, SNOWFLAKE
 
 ## Objective
 To analyse and compare the price performance, volatility, correlation, and 
